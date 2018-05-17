@@ -29,5 +29,6 @@ public class DuiLie {
             System.out.println(duiLie.myGet());
         }
         System.out.println(4<<2);
+        System.out.println(4<<2);
     }
 }

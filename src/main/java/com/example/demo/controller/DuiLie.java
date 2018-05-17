@@ -28,7 +28,6 @@ public class DuiLie {
         for (int i = 0;i<5;i++){
             System.out.println(duiLie.myGet());
         }
-        System.out.println(4<<2);
-        System.out.println(4<<2);
+        System.out.println(4<<1);
     }
 }

@@ -30,5 +30,8 @@ public class DuiLie {
         }
 
         System.out.println(4<<1);
+        System.out.println(4<<1);
+        System.out.println(4<<1);
+        System.out.println(4<<1);
     }
 }
